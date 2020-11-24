@@ -1,0 +1,76 @@
+[
+  {
+    "breakAndHandle": {
+      "type": "flatBars",
+      "price": 10.5
+    },
+    "chainAssemble": {
+      "type": "one_speed",
+      "price": 15.5
+    },
+    "frame": {
+      "type": "aluminum",
+      "price": 15.5
+    },
+    "gear": {
+      "type": "fixed_Gears",
+      "price": 15.5
+    },
+    "wheel": {
+      "spokes": {
+        "type": "one_speed",
+        "price": 15.5
+      },
+      "rim": {
+        "type": "steel",
+        "price": 15.5
+      },
+      "tube": {
+        "type": "tubless",
+        "price": 15.5
+      },
+      "tyre": {
+        "type": "tubular",
+        "price": 0.0,
+        "date": "01/01/2016"
+      }
+    }
+  },
+  {
+    "breakAndHandle": {
+      "type": "flatBars",
+      "price": 10.5
+    },
+    "chainAssemble": {
+      "type": "one_speed",
+      "price": 15.5
+    },
+    "frame": {
+      "type": "aluminum",
+      "price": 15.5
+    },
+    "gear": {
+      "type": "fixed_Gears",
+      "price": 15.5
+    },
+    "wheel": {
+      "spokes": {
+        "type": "one_speed",
+        "price": 15.5
+      },
+      "rim": {
+        "type": "steel",
+        "price": 15.5
+      },
+      "tube": {
+        "type": "tubless",
+        "price": 15.5
+      },
+      "tyre": {
+        "type": "tubular",
+        "price": 0.0,
+        "date": "01/12/2016"
+      }
+    }
+  }
+]
